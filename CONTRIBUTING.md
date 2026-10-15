@@ -21,5 +21,5 @@ Thank you for helping keep this list complete and correct.
 
 ## Report an error
 
-Open an issue with the paper and the field that is wrong. Classifications are based on the abstracts, so
+Open an issue with the paper and the field that is wrong. Classifications are based on the our reading, so
 corrections from authors are especially welcome.
