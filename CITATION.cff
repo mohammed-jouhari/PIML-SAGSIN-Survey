@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this list or code, please cite the article below."
+title: "PIML-SAGSIN-Survey"
+authors:
+  - family-names: Jouhari
+    given-names: Mohammed
+    orcid: "https://orcid.org/0000-0001-5406-8594"
+    affiliation: "Ibn Tofail University, Kenitra, Morocco"
+repository-code: "https://github.com/mohammed-jouhari/PIML-SAGSIN-Survey"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Physics-Informed Machine Learning for Space-Air-Ground-Sea Integrated Networks: A Tutorial and Survey"
+  authors:
+    - family-names: Jouhari
+      given-names: Mohammed
+      orcid: "https://orcid.org/0000-0001-5406-8594"
+  year: 2026
+  notes: "Preprint; the arXiv identifier will be added on posting."
