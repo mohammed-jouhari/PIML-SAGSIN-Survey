@@ -1,19 +1,29 @@
 cff-version: 1.2.0
-message: "If you use this list or code, please cite the article below."
-title: "PIML-SAGSIN-Survey"
+message: "If you use the screening table, the code, or the decision framework, please cite the article."
+title: "PIML-SAGSIN-Survey: Screening Table and Code of the Worked Examples"
+type: software
 authors:
   - family-names: Jouhari
     given-names: Mohammed
     orcid: "https://orcid.org/0000-0001-5406-8594"
-    affiliation: "Ibn Tofail University, Kenitra, Morocco"
+    affiliation: "Ibn Tofail University"
+  - family-names: Benaddi
+    given-names: Hafsa
+    affiliation: "Hassan II University of Casablanca"
+  - family-names: Guizani
+    given-names: Mohsen
+    affiliation: "Mohamed Bin Zayed University of Artificial Intelligence"
 repository-code: "https://github.com/mohammed-jouhari/PIML-SAGSIN-Survey"
-license: MIT
 preferred-citation:
   type: article
   title: "Physics-Informed Machine Learning for Space-Air-Ground-Sea Integrated Networks: A Tutorial and Survey"
   authors:
     - family-names: Jouhari
       given-names: Mohammed
-      orcid: "https://orcid.org/0000-0001-5406-8594"
+    - family-names: Benaddi
+      given-names: Hafsa
+    - family-names: Guizani
+      given-names: Mohsen
   year: 2026
-  notes: "Preprint; the arXiv identifier will be added on posting."
+  status: submitted
+  notes: "Submitted to IEEE Communications Surveys & Tutorials"
